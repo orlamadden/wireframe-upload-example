@@ -17,7 +17,7 @@ In particular, as part of this section we recommend that you provide a list of U
 ### Wireframes
 
 - Class Timetable Page
-  * Mobile
+  * [Mobile](https://github.com/orlamadden/wireframe-upload-example/blob/master/wireframes/classes-mobile-wireframe.png)
   * Tablet
   * Desktop
 
