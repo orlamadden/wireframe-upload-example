@@ -23,3 +23,15 @@ In particular, as part of this section we recommend that you provide a list of U
 
 - Contact Page
   * Test
+
+<details>
+   <summary>Wireframes example</summary>
+
+   
+![https://res.cloudinary.com/orla2020/image/upload/v1591374639/milestone-two/contact-info-wireframe_kk1w7z.png](https://res.cloudinary.com/orla2020/image/upload/v1591374639/milestone-two/contact-info-wireframe_kk1w7z.png)
+   
+
+   <p align="center">
+      Embed wireframe image here using markdown
+   </p>
+   </details>
